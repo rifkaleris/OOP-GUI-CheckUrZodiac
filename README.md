@@ -35,13 +35,13 @@ A Java Swing desktop application designed with a muted galaxy theme that determi
 ## Screenshots
 
 ### 1. Selecting Birth Date (`comboTanggal` Dropdown)
-![Selecting Date](Screenshot 2026-11-21 063751.png)
+![Selecting Date](pic1.png)
 
 ### 2. Selecting Birth Month (`comboBulan` Dropdown)
-![Selecting Month](Screenshot 2026-11-21 063801.png)
+![Selecting Month](pic2.png)
 
 ### 3. Zodiac Result Output (`17 Juni` -> `Gemini`)
-![Zodiac Result](Screenshot 2026-11-21 063819.png)
+![Zodiac Result](pic3.png)
 
 ---
 
